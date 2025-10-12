@@ -25,10 +25,10 @@ Hi, I'm Fayrouz Newira!
 <hr>
 
 <pre>
-💻 I’m a passionate Computer Science student at Faculty of Computers & Informatics, Zagazig University.
+💻 I’m a Computer Science student at Faculty of Computers & Informatics, Zagazig University.
 🌸 Currently in my 3rd year, exploring the world of Frontend Development and C++ Programming.
-🚀 I love building beautiful, responsive, and user-friendly web interfaces.
-📚 Always learning new technologies and improving my problem-solving skills.
+🚀 I can building beautiful, responsive, and user-friendly web interfaces.
+<!-- 📚 Always learning new technologies and improving my problem-solving skills. -->
 🎯 My goal: To become a professional Full Stack Developer and contribute to real-world projects.
 </pre>
 
@@ -63,7 +63,7 @@ Hi, I'm Fayrouz Newira!
 <p>
     <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
     <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white">
-    <img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white">
+    <!-- <img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white"> -->
 </p>
 
 ---
