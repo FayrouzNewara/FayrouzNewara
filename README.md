@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm Fayrouz Newira! 👋
+Hi, I'm Fayrouz Newira! 
 	<a href="https://github.com/FayrouzNewira" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
