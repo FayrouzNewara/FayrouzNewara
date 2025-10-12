@@ -28,8 +28,8 @@ Hi, I'm Fayrouz Newira!
 💻 I’m a Computer Science student at Faculty of Computers & Informatics, Zagazig University.
 🌸 Currently in my 3rd year, exploring the world of Frontend Development and C++ Programming.
 🚀 I can building beautiful, responsive, and user-friendly web interfaces.
-<!-- 📚 Always learning new technologies and improving my problem-solving skills. -->
 🎯 My goal: To become a professional Full Stack Developer and contribute to real-world projects.
+<!-- 📚 Always learning new technologies and improving my problem-solving skills. -->
 </pre>
 
 <hr>
