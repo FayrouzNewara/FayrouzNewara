@@ -5,14 +5,14 @@ Hi, I'm Fayrouz Newira!
 	</a>
 </h1>
 
-<p align="center">
+<!-- <p align="center">
 	<a href="https://github.com/FayrouzNewira">
 		<img src="https://komarev.com/ghpvc/?username=FayrouzNewira&label=Profile%20views&color=ff69b4&style=flat" alt="FayrouzNewira" />
 	</a>
 	<a href="https://github.com/FayrouzNewira">
 		<img src="https://img.shields.io/github/followers/FayrouzNewira?label=Followers&style=flat&color=ff69b4" alt="followers" />
 	</a>
-</p>
+</p> -->
 
 <br/>
 
