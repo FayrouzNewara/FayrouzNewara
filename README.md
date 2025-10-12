@@ -69,18 +69,18 @@ Hi, I'm Fayrouz Newira!
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
+<!-- <p align="center">
 	<a href="https://github.com/FayrouzNewira">
 		<img width="49%" src="https://github-readme-stats.vercel.app/api?username=FayrouzNewira&show_icons=true&theme=rose_pine" alt="Fayrouz's GitHub Stats"/>
 		<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=FayrouzNewira&theme=rose_pine" alt="GitHub Streak"/>
 	</a>
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
 	<a href="https://github.com/FayrouzNewira">
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FayrouzNewira&layout=compact&theme=rose_pine" alt="Top Languages"/>
 	</a>
-</p>
+</p> -->
 
 ---
 
